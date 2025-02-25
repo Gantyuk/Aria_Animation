@@ -1,0 +1,13 @@
+{
+    "name": "scaling-animation",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "parcel src/index.html",
+      "build": "tsc"
+    },
+    "devDependencies": {
+      "parcel": "^2.0.0",
+      "typescript": "^4.0.0"
+    }
+  }
+  
